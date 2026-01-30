@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-AI Engineer fresh out of ESCOM-IPN with hands-on experience building full-stack AI systems, multi-agent architectures, and production-ready applications. I focus on turning complex requirements into clean, scalable solutions—from gathering requirements to deploying CI/CD pipelines.
+AI Engineer with hands-on experience building full-stack AI systems, multi-agent architectures, and production-ready applications. I focus on turning complex requirements into clean, scalable solutions—from gathering requirements to deploying CI/CD pipelines.
 
-Currently working as an AI Systems Development Consultant, I spend my days designing microservices, orchestrating intelligent agents, and automating everything that can be automated.
+I specialize in designing microservices, orchestrating intelligent agents, and automating workflows.
 
 - 🔭 Working on multi-agent systems with **LangGraph** 
 - 🧠 Research background in **brain-computer interfaces** and **EEG signal processing**
@@ -73,14 +73,20 @@ Currently working as an AI Systems Development Consultant, I spend my days desig
 
 ## 💼 Featured Projects
 
-### 🤖 [Visor 360° + Jasper](https://visor.siis.ipn.mx/ci/landacbio_cmlp)
-**Multi-Agent Conversational System with Virtual Tours**
+### 🤖 Multi-Agent Conversational System
+**AI-Powered Virtual Assistant with Knowledge Base**
 - Orchestrated 6 specialized AI agents using **LangGraph** and **GPT-4o** with memory capabilities
-- Built 3 REST microservices: conversational chatbot with streaming, NoSQL entity manager, and 360° tour generator
+- Built REST microservices: conversational chatbot with streaming, NoSQL entity manager, and content generator
 - Implemented NLP-powered search engine with **Sentence Transformers** and semantic search
 - Automated CI/CD deployment with **Jenkins** to staging and production environments
 
 **Tech:** `FastAPI` `LangGraph` `MongoDB` `Docker` `Jenkins` `GPT-4o` `NLP`
+
+<div align="center">
+  <img src="assets/screenshots/Jasper/1.png" alt="Multi-Agent System Screenshot 1" width="30%"/>
+  <img src="assets/screenshots/Jasper/2.png" alt="Multi-Agent System Screenshot 2" width="30%"/>
+  <img src="assets/screenshots/Jasper/3.jpeg" alt="Multi-Agent System Screenshot 3" width="30%"/>
+</div>
 
 ---
 
@@ -93,10 +99,27 @@ Currently working as an AI Systems Development Consultant, I spend my days desig
 
 **Tech:** `Python` `Dash` `Scikit-learn` `MNE` `PyWavelets` `TensorFlow` `Plotly`
 
+<div align="center">
+  <img src="assets/screenshots/EEG/1.png" alt="EEG Screenshot 1" width="45%"/>
+  <img src="assets/screenshots/EEG/2.png" alt="EEG Screenshot 2" width="45%"/>
+</div>
+<div align="center">
+  <img src="assets/screenshots/EEG/3.png" alt="EEG Screenshot 3" width="45%"/>
+  <img src="assets/screenshots/EEG/4.png" alt="EEG Screenshot 4" width="45%"/>
+</div>
+<div align="center">
+  <img src="assets/screenshots/EEG/5.png" alt="EEG Screenshot 5" width="45%"/>
+  <img src="assets/screenshots/EEG/6.png" alt="EEG Screenshot 6" width="45%"/>
+</div>
+<div align="center">
+  <img src="assets/screenshots/EEG/7.png" alt="EEG Screenshot 7" width="45%"/>
+  <img src="assets/screenshots/EEG/8.png" alt="EEG Screenshot 8" width="45%"/>
+</div>
+
 ---
 
-### ✅ [SIIS Attendance Control System](https://visor.siis.ipn.mx/checker_siis/stg/login)
-**Institutional Attendance Management Platform**
+### ✅ Attendance Management System
+**Enterprise Attendance Control Platform**
 - Developed hexagonal architecture REST API with **FastAPI** and **PostgreSQL**
 - Designed deterministic classification algorithm processing 120+ attendance scenarios
 - Automated deployment with Jenkins multistage pipeline (Angular + FastAPI + DB)
@@ -104,10 +127,14 @@ Currently working as an AI Systems Development Consultant, I spend my days desig
 
 **Tech:** `Angular` `FastAPI` `PostgreSQL` `Docker` `Jenkins` `JWT`
 
+<div align="center">
+  <img src="assets/screenshots/Checker/1.png" alt="Attendance System Screenshot" width="70%"/>
+</div>
+
 ---
 
-### 💧 [PWater](https://pwater.polincubate.com)
-**Water Distribution Management System**
+### 💧 Water Distribution Management System
+**Multi-Role Administrative Platform**
 - Designed MVC architecture with 6-role multi-profile system
 - Built notification microservice with **FastAPI** exposing REST endpoints for multi-provider email
 - Developed complete administrative and logistics modules with CRUD operations
