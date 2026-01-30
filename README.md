@@ -83,9 +83,17 @@ I specialize in designing microservices, orchestrating intelligent agents, and a
 **Tech:** `FastAPI` `LangGraph` `MongoDB` `Docker` `Jenkins` `GPT-4o` `NLP`
 
 <div align="center">
-  <img src="assets/screenshots/Jasper/1.png" alt="Multi-Agent System Screenshot 1" width="30%"/>
-  <img src="assets/screenshots/Jasper/2.png" alt="Multi-Agent System Screenshot 2" width="30%"/>
-  <img src="assets/screenshots/Jasper/3.jpeg" alt="Multi-Agent System Screenshot 3" width="30%"/>
+  <table>
+    <tr>
+      <td width="40%">
+        <img src="assets/screenshots/Jasper/1.png" alt="Multi-Agent System Screenshot 1" width="100%"/>
+        <img src="assets/screenshots/Jasper/2.png" alt="Multi-Agent System Screenshot 2" width="100%"/>
+      </td>
+      <td width="60%">
+        <img src="assets/screenshots/Jasper/3.jpeg" alt="Multi-Agent System Screenshot 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
