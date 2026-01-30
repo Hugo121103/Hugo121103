@@ -19,7 +19,7 @@ AI Engineer fresh out of ESCOM-IPN with hands-on experience building full-stack 
 
 Currently working as an AI Systems Development Consultant, I spend my days designing microservices, orchestrating intelligent agents, and automating everything that can be automated.
 
-- 🔭 Working on multi-agent systems with **LangGraph** and **GPT-4o**
+- 🔭 Working on multi-agent systems with **LangGraph** 
 - 🧠 Research background in **brain-computer interfaces** and **EEG signal processing**
 - 🛠️ Building **REST APIs** and **microservices** with **FastAPI**
 - 🤖 Passionate about **NLP**, **Machine Learning**, and **DevOps automation**
