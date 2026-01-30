@@ -15,15 +15,14 @@
 
 ## 🚀 About Me
 
-AI Engineer fresh out of ESCOM-IPN with hands-on experience building full-stack AI systems, multi-agent architectures, and production-ready applications. I specialize in turning complex requirements into clean, scalable solutions—from gathering requirements to deploying CI/CD pipelines.
+AI Engineer fresh out of ESCOM-IPN with hands-on experience building full-stack AI systems, multi-agent architectures, and production-ready applications. I focus on turning complex requirements into clean, scalable solutions—from gathering requirements to deploying CI/CD pipelines.
 
 Currently working as an AI Systems Development Consultant, I spend my days designing microservices, orchestrating intelligent agents, and automating everything that can be automated.
 
 - 🔭 Working on multi-agent systems with **LangGraph** 
 - 🧠 Research background in **brain-computer interfaces** and **EEG signal processing**
 - 🛠️ Building **REST APIs** and **microservices** with **FastAPI**
-- 🤖 Passionate about **NLP**, **Machine Learning**, and **DevOps automation**
-- 📚 Always learning, always shipping
+- 🤖 Passionate about **NLP**, **Machine Learning**
 
 ---
 
