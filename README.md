@@ -189,9 +189,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### ⚡ Fun Fact
-When I'm not coding, I'm probably debugging why my code works 😄
-
 *"Always learning, always building"*
 
 ![Visitor Count](https://profile-counter.glitch.me/Hugo121103/count.svg)
