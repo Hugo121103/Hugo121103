@@ -85,11 +85,11 @@ I specialize in designing microservices, orchestrating intelligent agents, and a
 <div align="center">
   <table>
     <tr>
-      <td width="25%">
+      <td width="20%">
         <img src="assets/screenshots/Jasper/1.png" alt="Multi-Agent System Screenshot 1" width="100%"/>
         <img src="assets/screenshots/Jasper/2.png" alt="Multi-Agent System Screenshot 2" width="100%"/>
       </td>
-      <td width="35%">
+      <td width="28%">
         <img src="assets/screenshots/Jasper/3.jpeg" alt="Multi-Agent System Screenshot 3" width="100%"/>
       </td>
     </tr>
